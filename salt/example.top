@@ -1,4 +1,6 @@
 base:
     '*':
         - elife
+        - elife.java
+        - elife.nginx
         - jats4r-validator
